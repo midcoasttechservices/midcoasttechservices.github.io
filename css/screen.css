@@ -1,11 +1,11 @@
 body {
-	background: rgb(34,41,48); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; min-width: 600px;
+	background: rgb(34,41,48); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; color: rgb(233,233,233); min-width: 600px;
 }
 a {
-	color: rgb(51, 102, 153);
+	color: rgb(78,177,186);
 }
 a:hover {
-	background: none; color: rgb(102, 102, 102); text-decoration: none;
+	background: none; color: rgb(100, 100, 102); text-decoration: none;
 }
 #container p {
 	padding: 5.0em 250px 50px;
@@ -36,7 +36,7 @@ img {
 
 }
 #header {
-	border-bottom-color: rgb(); border-bottom-width: 6px; border-bottom-style: solid;
+	border-bottom-color: rgb(); border-bottom-width: 0px; border-bottom-style: solid;
 }
 #header p {
 	padding: 0.4em 15px 0px;
@@ -69,7 +69,7 @@ img {
 	display: block;
 }
 #layoutdims {
-	background: rgb(217, 219, 231); margin: 0px; padding: 6px 15px !important; text-align: right; clear: both; border-top-color: rgb(0, 0, 0); border-top-width: 4px; border-top-style: solid;
+	background: rgb(34,41,48); margin: 0px; padding: 6px 15px !important; text-align: right; clear: both; border-top-color: rgb(0, 0, 0); border-top-width: 0px; border-top-style: solid;
 }
 .colmask {
 	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
@@ -93,13 +93,13 @@ img {
 	padding: 0px 0px 1em; overflow: hidden; float: left; position: relative;
 }
 .threecol {
-	background: rgb(217, 219, 231);
+	background: rgb(34,41,48);
 }
 .threecol .colmid {
-	background: rgb(217, 219, 231); right: 25%;
+	background: rgb(34,41,48); right: 25%;
 }
 .threecol .colleft {
-	background: rgb(217, 219, 231); right: 50%;
+	background: rgb(34,41,48); right: 50%;
 }
 .threecol .col1 {
 	left: 81%; width: 30%;
@@ -119,7 +119,7 @@ img {
 .threecol .col3 {
 	left: 82%; width: 30%;
 }#footer {
-	width: 100%; clear: both; border-top-color: rgb(200, 200, 200); border-top-width: 4px; border-top-style: solid; float: left;
+	width: 100%; clear: both; border-top-color: rgb(200, 200, 200); border-top-width: 3px; border-top-style: solid; float: left;
 }
 #footer p {
 	margin: 0px; padding: 10px;
