@@ -54,7 +54,7 @@ img {
 	list-style: none; margin: 0px; padding: 0px; display: inline;
 }
 #header ul li a {
-	background: rgb(); margin: 0px 0px 0px 1px; padding: 3px 10px; left: 15px; text-align: center; color: rgb(0, 0, 0); line-height: 1.3em; text-decoration: none; float: left; display: block; position: relative;
+	background: rgb(34,41,48); margin: 0px 0px 0px 15px; padding: 3px 10px; left: 15px; text-align: center; color: rgb(0, 0, 0); line-height: 1.3em; text-decoration: none; float: left; display: block; position: relative;
 }
 #header ul li a:hover {
 	background: rgb(51, 102, 153); color: rgb(250, 250, 250);
