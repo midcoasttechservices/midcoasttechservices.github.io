@@ -36,7 +36,7 @@ img {
 
 }
 #header {
-	border-bottom-color: rgb(); border-bottom-width: 0px; border-bottom-style: solid;
+	border-bottom-color: rgb(34,41,48); border-bottom-width: 15px; border-bottom-style: solid;
 }
 #header p {
 	padding: 0.4em 15px 0px;
