@@ -69,7 +69,7 @@ img {
 	display: block;
 }
 #layoutdims {
-	background: rgb(34,41,48); margin: 0px; padding: 6px 15px !important; text-align: right; clear: both; border-top-color: rgb(0, 0, 0); border-top-width: 0px; border-top-style: solid;
+	background: rgb(34,41,48); margin: 0px; padding: 6px 10px !important; text-align: right; clear: both; border-top-color: rgb(0, 0, 0); border-top-width: 0px; border-top-style: solid;
 }
 .colmask {
 	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
@@ -119,7 +119,7 @@ img {
 .threecol .col3 {
 	left: 82%; width: 30%;
 }#footer {
-	width: 102%; clear: both; border-top-color: rgb(100, 100, 102); border-top-width: 3px; border-top-style: solid; float: left; position: absolute; bottom: 0;
+	width: 102%; clear: both; border-top-color: rgb(100, 100, 102); border-top-width: 5px; border-top-style: solid; float: left; position: absolute; bottom: 0;
 }
 #footer p {
 	margin: 0px; padding: 10px;
