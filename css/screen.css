@@ -1,6 +1,23 @@
 body {
 	background: rgb(); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; color: rgb(233,233,233); min-width: 600px;
 }
+#bg {
+	position:absolute;
+	top: -50%;
+	left: -50%;
+	width:200%;
+	height:200%;
+}
+#bg img {
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto;
+	min-width:50%;
+	min-height:50%;
+}
 a {
 	color: rgb(78,177,186);
 }
@@ -33,7 +50,6 @@ img {
 }
 #header {
 	padding: 0.4em 15px 0px; width: 99%; clear: both; float: left; background: rgb(34,41,48);
-
 }
 #header {
 	border-bottom-color: rgb(100,100,102); border-bottom-width: 15px; border-bottom-style: solid;
