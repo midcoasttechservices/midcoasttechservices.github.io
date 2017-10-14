@@ -135,14 +135,15 @@ img {
 }
 .threecol .col3 {
 	left: 82%; width: 30%;
-}#footer {
-	width: 102%; clear: both; border-top-color: rgb(100, 100, 102); border-top-width: 5px; border-top-style: solid; float: left; position: absolute; bottom: 0;
+}
+#footer {
+	width: 102%; clear: both; border-top-color: rgb(34,41,48); border-top-width: 5px; border-top-style: solid; float: left; position: absolute; bottom: 0;
 }
 #footer p {
 	margin: 0px; padding: 10px;
 }
 .footcolmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
+	width: 100%; overflow: hidden; clear: both; float: left; position: absolute;
 }
 .footcolright {
 	width: 100%; float: left; position: relative;
@@ -154,13 +155,13 @@ img {
 	width: 100%; float: left; position: relative;
 }
 .footcol {
-	background: rgb(217, 219, 231);
+	background: rgb(34,41,48);
 }
 .footcol .footcolmid {
-	background: rgb(217, 219, 231); right: 25%;
+	background: rgb(34,41,48); right: 25%;
 }
 .footcol .footcolleft {
-	background: rgb(217, 219, 231); right: 50%;
+	background: rgb(34,41,48); right: 50%;
 }
 .footcol .footcol1 {
 	left: 45%; width: 30%;
@@ -170,4 +171,34 @@ img {
 }
 .footcol .footcol3 {
 	left: 50%; width: 30%;
+}
+.colmask {
+	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
+}
+.colright {
+	width: 100%; float: left; position: relative;
+}
+.colmid {
+	width: 100%; float: left; position: relative;
+}
+.colleft {
+	width: 100%; float: left; position: relative;
+}
+.threecol {
+	background: rgb(34,41,48);
+}
+.threecol .colmid {
+	background: rgb(34,41,48); right: 25%;
+}
+.threecol .colleft {
+	background: rgb(34,41,48); right: 50%;
+}
+.threecol .col1 {
+	left: 81%; width: 30%;
+}
+.threecol .col2 {
+	left: 80%; width: 30%;
+}
+.threecol .col3 {
+	left: 82%; width: 30%;
 }
