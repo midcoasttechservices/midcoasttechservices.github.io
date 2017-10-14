@@ -137,40 +137,10 @@ img {
 	left: 82%; width: 30%;
 }
 #footer {
-	width: 102%; clear: both; border-top-color: rgb(34,41,48); border-top-width: 5px; border-top-style: solid; float: left; position: absolute; bottom: 0;
+	width: 100%; clear: both; border-top-color: rgb(34,41,48); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48);
 }
 #footer p {
-	margin: 0px; padding: 10px;
-}
-.footcolmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: absolute;
-}
-.footcolright {
-	width: 100%; float: left; position: relative;
-}
-.footcolmid {
-	width: 100%; float: left; position: relative;
-}
-.footcolleft {
-	width: 100%; float: left; position: relative;
-}
-.footcol {
-	background: rgb(34,41,48);
-}
-.footcol .footcolmid {
-	background: rgb(34,41,48); right: 25%;
-}
-.footcol .footcolleft {
-	background: rgb(34,41,48); right: 50%;
-}
-.footcol .footcol1 {
-	left: 45%; width: 30%;
-}
-.footcol .footcol2 {
-	left: 30%; width: 30%;
-}
-.footcol .footcol3 {
-	left: 50%; width: 30%;
+	margin: 0px; padding: 10px; background: rgb(34,41,48);
 }
 .colmask {
 	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
