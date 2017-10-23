@@ -36,10 +36,10 @@ img {
 	padding-top: 10px; display: block;
 }
 #header {
-	padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
+	width:  100%; clear: both; padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
 }
 #header {
-	width: 100%; border-bottom-color: rgb(200, 200, 200); border-bottom-width: 6px; border-bottom-style: solid;
+	width:  100%; clear: both; border-bottom-color: rgb(200, 200, 200); border-bottom-width: 6px; border-bottom-style: solid;
 }
 #header p {
 	padding: 0.4em 15px 0px;
