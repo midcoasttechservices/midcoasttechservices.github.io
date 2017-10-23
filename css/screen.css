@@ -39,7 +39,7 @@ img {
 	padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
 }
 #header {
-	border-bottom-color: rgb(200, 200, 200); border-bottom-width: 6px; border-bottom-style: solid;
+	width: 100%; border-bottom-color: rgb(200, 200, 200); border-bottom-width: 6px; border-bottom-style: solid;
 }
 #header p {
 	padding: 0.4em 15px 0px;
