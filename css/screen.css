@@ -12,7 +12,7 @@ a:hover {
 	padding: 5.0em 250px 50px; max-width: 800px;
 }
 #container2 p {
-	padding: 5.0em 100px 50px; max-width: 800px;
+	padding: 2.0em 100px 50px; max-width: 800px;
 }
 #container3 p {
 	padding: 1.0em 25px 50px; max-width: 800px;
@@ -36,7 +36,7 @@ img {
 	padding-top: 10px; display: block;
 }
 #header {
-	width:  100%; clear: both; padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
+	width: 100%; clear: both; padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
 }
 #header {
 	 width:  100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 6px; border-top-style: solid; float: left; background: rgb(34,41,48);
@@ -145,7 +145,7 @@ col-b {
 	left: 75%; width: 29%;
 }
 #footer {
- position: absolute; bottom: 0; width:  100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); color: rgb(250,250,250); text-decoration: none;
+ position: absolute; bottom: 0; width: 100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); color: rgb(250,250,250); text-decoration: none;
 }
 #footer p {
 	margin: 0px; padding: 10px; background: rgb(34,41,48);
