@@ -1,182 +1,80 @@
-body {
-media: screen;	background: rgb(104,111,118); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; min-width: 600px; min-height: 720px;
-}
+<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><HTML 
+xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"><HEAD><META 
+content="IE=11.0000" http-equiv="X-UA-Compatible">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">	 <TITLE> Seacoast Tech Services</TITLE>		 
+<META name="description"Serving Midcoast Maine since 2013.">
+	 
+<META name="robots" content="index, follow">	 <LINK href="images/favicon.ico" 
+rel="shortcut icon" type="image/x-icon">	 <LINK href="css/screen.css" 
+rel="stylesheet" type="text/css" media="screen"> 
+<STYLE></STYLE>
+ 
+<META name="GENERATOR" content="MSHTML 11.00.9600.17496">
+<script>
 
-a {
-	color: rgb(78,177,186);
-}
-a:hover {
-	background: none; color: rgb(100,100,102); text-decoration: none;
-}
-#container p {
-	padding: 5.0em 250px 50px; max-width: 800px;
-}
-#container2 p {
-	padding: 5.0em 100px 50px; max-width: 800px;
-}
-#container3 p {
-	padding: 1.0em 25px 50px; max-width: 800px;
-}
-h1 {
-	margin: 0.8em 0px 0.2em; padding: 0px;
-}
-h2 {
-	margin: 0.8em 0px 0.2em; padding: 0px;
-}
-h3 {
-	margin: 0.8em 0px 0.2em; padding: 0px;
-}
-p {
-	margin: 0.4em 0px 0.8em; padding: 0px;
-}
-img {
-	margin: 10px 0px 5px;
-}
-#ads img {
-	padding-top: 10px; display: block;
-}
-#header {
-	padding: 0.4em 15px 0px; clear: both; float: left; background: rgb(34,41,48);
-}
-#header {
-	border-bottom-color: rgb(100, 100, 102); border-bottom-width: 6px; border-bottom-style: solid;
-}
-#header p {
-	padding: 0.4em 15px 0px;
-}
-#header h1 {
-	padding: 0.4em 15px 0px;
-}
-#header h2 {
-	padding: 0.4em 15px 0px;
-}
-#header ul {
-	list-style: none; margin: 10px 0px 0px; padding: 0px; width: 100%; clear: left; float: left;
-}
-#header ul li {
-	list-style: none; margin: 0px; padding: 0px; display: inline;
-}
-#header ul li a {
-	background: rgb(34,41,48); margin: 0px 0px 0px 1px; padding: 3px 10px; left: 15px; text-align: center; color: rgb(0, 0, 0); line-height: 1.3em; text-decoration: none; float: left; display: block; position: relative;
-}
-#header ul li a:hover {
-	background: rgb(51, 102, 153); color: rgb(250, 250, 250);
-}
-#header ul li a.active {
-	background: rgb(0, 0, 0); color: rgb(255, 255, 255); font-weight: bold;
-}
-#header ul li a.active:hover {
-	background: rgb(0, 0, 0); color: rgb(255, 255, 255); font-weight: bold;
-}
-#header ul li a span {
-	display: block;
-}
-#layoutdims {
-	background: rgb(217, 219, 231); margin: 0px; padding: 6px 15px !important; text-align: right; clear: both; border-top-color: rgb(0, 0, 0); border-top-width: 4px; border-top-style: solid;
-}
-.colmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
-}
-.col-a {
-	width: 100%; float: left; position: relative;
-}
-.col-b {
-	width: 100%; float: right; position: relative;
-}
-.col-a {
-	padding: 0px 45px 0em; overflow: hidden; float: left; position: relative;
-}	
-col-b {
-	padding: 0px 10px 0em; overflow: none; float: right; position: relative;
-}
-.twocol {
-	background: rgb(217, 219, 231);
-}
-.twocol .colmid {
-	background: rgb(217, 219, 231); right: 29%;
-}
-.twocol .colleft {
-	background: rgb(217, 219, 231); right: 50%;
-}
-.twocol .col-a {
-	left: 75%; width: 11%;
-}
-.twocol .col-b {
-	left: 77%; width: 79%;
-}
-.colmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
-}
-.colright {
-	width: 100%; float: left; position: relative;
-}
-.colmid {
-	width: 100%; float: left; position: relative;
-}
-.colleft {
-	width: 100%; float: left; position: relative;
-}
-.col1 {
-	padding: 0px 0px 1em; overflow: hidden; float: left; position: relative;
-}
-.col2 {
-	padding: 0px 0px 1em; overflow: hidden; float: left; position: relative;
-}
-.col3 {
-	padding: 0px 0px 1em; overflow: hidden; float: left; position: relative;
-}
-.threecol {
-	background: rgb(217, 219, 231);
-}
-.threecol .colmid {
-	background: rgb(217, 219, 231); right: 25%;
-}
-.threecol .colleft {
-	background: rgb(217, 219, 231); right: 50%;
-}
-.threecol .col1 {
-	left: 102%; width: 29%;
-}
-.threecol .col2 {
-	left: 15%; width: 29%;
-}
-.threecol
- .col3 {
-	left: 75%; width: 29%;
-}
-#footer {
- width:  100%; clear: both; border-top-color: rgb(34,41,48); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); text-align: center; color: rgb(255,255,255); 
-}
-#footer p {
-	margin: 0px; padding: 10px; background: rgb(34,41,48);
-}
-.colmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
-}
-.colright {
-	width: 100%; float: left; position: relative;
-}
-.colmid {
-	width: 100%; float: left; position: relative;
-}
-.colleft {
-	width: 100%; float: left; position: relative;
-}
-.threecol {
-	background: rgb(34,41,48);
-}
-.threecol .colmid {
-	background: rgb(34,41,48); right: 25%;
-}
-.threecol .colleft {
-	background: rgb(34,41,48); right: 50%;
-}
-.threecol .col1 {
-	left: 81%; width: 30%;
-}
-.threecol .col2 {
-	left: 80%; width: 30%;
-}
-.threecol .col3 {
-	left: 82%; width: 30%;
-}
+<!-- Insert Google Analytics script here -->
+</script>
+</HEAD> 
+
+<DIV id="header"><img src="images/logo.png"; width="50%"> 
+<DIV align="right"><SPAN style="font-family: Arial; language: EN;"><A href="index.html"><B>Home</B> 
+</A>&nbsp; |  &nbsp; <A href="about.html"> 
+<B>About</B> </A> &nbsp; |  &nbsp;<a href="contact.html"><B> Contact Us</B></a></SPAN> 
+&nbsp; &nbsp;&nbsp; &nbsp;
+
+
+</DIV>
+</DIV>
+<div id="container2" align="center">
+<br>
+<br>
+<SPAN style="font-family: Arial; language: EN;">
+</br>
+<p><b>
+Seacoast Tech Services has been serving Midcoast Maine since 2013. Our team has experience working with state and local government, small businesses, and individuals. We offer a broad range of services, including:
+	<ul style="list-style-type:none">
+		<li>PC repairs & upgrades</li>
+		<li> Networking services</li>
+		<li> Disaster recovery services</li>
+		<li> Data backups</li>
+		<li> Website design & hosting</li>
+		<li>Systems Automation</li>
+		<li>Linux administration</li>
+		<li>Network security</li>
+		<li>IT support</li>
+	</ul></p></div>
+
+<div id="container" align="center">
+<p>	
+For more information on the full range of services we provide use our <a href="contact.html">contact form.</a></b>
+</p>
+</DIV>
+
+		 
+			 
+<DIV id="footer">
+<DIV class="colmask threecol">
+<DIV class="colmid">
+<DIV class="colleft">
+
+<DIV align="center" class="col1"><!-- Column 2 start -->				 <SPAN style="font-family: Arial; language: EN;">
+<H3><a href= "index.html"> &copy; 
+2017 Seacoast Tech Services</a></H3>All rights reserved</SPAN>
+				 <!-- Column 2 end -->
+			 </DIV>
+			 
+<DIV align="center" class="col2"><!-- Column 1 start -->				 <SPAN style="font-family: Arial; language: EN;">
+<H3><A href="about.html">About</A></H3><A href= "https://m.facebook.com/SeacoastTechServices/?ref=bookmarks" target= "_blank"><img src= "images/fboutline.png"; width= "5%">	</A></SPAN>
+				 <!-- Column 1 end -->			 </DIV>
+					 
+<DIV align="center" class="col3"><!-- Column 3 start -->				 <SPAN style="font-family: Arial; language: EN;">
+<H3><A 
+href="contact.html">Contact Us</A></H3> 
+207.449.8979</SPAN>								 <!-- Column 3 end -->
+
+			 </DIV>
+		</DIV></DIV></DIV>
+			 
+			 </BODY>	 
+			 </HTML>
