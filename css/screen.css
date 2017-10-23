@@ -1,5 +1,5 @@
 body {
-media: screen;	background: rgb(104,111,118); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; min-width: 600px; min-height: 720px;
+media: screen;	background: rgb(104,111,118); margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-size: 100%; min-width: 600px; min-height: 720px; color: rgb(250,250,250); text-decoration: none;
 }
 
 a {
@@ -145,7 +145,7 @@ col-b {
 	left: 75%; width: 29%;
 }
 #footer {
- width:  100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48);
+ width:  100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); color: rgb(250,250,250); text-decoration: none;
 }
 #footer p {
 	margin: 0px; padding: 10px; background: rgb(34,41,48);
