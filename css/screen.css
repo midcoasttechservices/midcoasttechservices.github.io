@@ -145,22 +145,22 @@ col-b {
 	left: 75%; width: 29%;
 }
 #footer {
- width: 100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); color: rgb(250,250,250); text-decoration: none;
+ position: absolute; bottom: 0; width: 100%; clear: both; border-top-color: rgb(180,180,180); border-top-width: 4px; border-top-style: solid; float: left; background: rgb(34,41,48); color: rgb(250,250,250); text-decoration: none;
 }
 #footer p {
-	margin: 0px; padding: 10px; background: rgb(34,41,48);
+	position: absolute; bottom: 0; margin: 0px; padding: 10px; background: rgb(34,41,48);
 }
 .colmask {
-	width: 100%; overflow: hidden; clear: both; float: left; position: relative;
+	position: absolute; bottom: 0; width: 100%; overflow: hidden; clear: both; float: left; position: relative;
 }
 .colright {
-	width: 100%; float: left; position: relative;
+	position: absolute; bottom: 0; width: 100%; float: left; position: relative;
 }
 .colmid {
-	width: 100%; float: left; position: relative;
+	position: absolute; bottom: 0; width: 100%; float: left; position: relative;
 }
 .colleft {
-	width: 100%; float: left; position: relative;
+	position: absolute; bottom: 0; width: 100%; float: left; position: relative;
 }
 .threecol {
 	background: rgb(34,41,48);
