@@ -79,6 +79,12 @@ p
 /* end navigation */
 
 /* start home */        
+#home h1
+    {
+        color: #93ca3a;
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
 #home
 	{
       padding-top: 65px;
@@ -160,6 +166,7 @@ p
 /* end home */
 
 /* start service */
+
 #service .media
     {
         padding: 10px;
