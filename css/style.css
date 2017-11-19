@@ -323,6 +323,12 @@ p
 /* end newsletter */
 
 /* start pricing */
+#pricing h3
+    {
+        color: #93ca3a;
+        font-size: 40px;
+        padding-bottom: 10px;
+    }
 #pricing
     {
         border-bottom: 1px solid #f6f6f6;
