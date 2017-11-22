@@ -614,7 +614,7 @@ footer .social-icon
     }
 .social-icon li a:hover
     {
-        background: #f2f2f2;
+        background: transparent;
     }
 /* end social icon */
 
